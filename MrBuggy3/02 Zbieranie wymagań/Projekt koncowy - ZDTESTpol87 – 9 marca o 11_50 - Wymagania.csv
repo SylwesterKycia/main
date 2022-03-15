@@ -1,0 +1,43 @@
+Lp,Wymaganie w oparciu o specyfikację,
+1,Wymagane są 4 wersje aplikacji klienckiej,Tomek
+,Aplikacja posiada część serwerową,
+,Aplikacja ma być w języku polskim,Aleksandra
+,jakie systemy operacyjne wspiera,
+,Nie jest wymagany instalator aplikacji,
+,Defekty w aplikacji są oceniane według kryterium,Sylwester
+,dane z części klienckiej maja być dostarczane w postaci pliku tekstowego,
+,wszystkie zadania mają zostać zaimplementowane w aplikacji,
+,w każdym zadaniu ma być dokładnie jeden defekt,Anna Ski
+,wersja końcowa nie może zawierać zadań z wersji demonstracyjnej,
+,wersje powinny różnić się tylko ilością zadań,Darek
+,część serwerowa powinna wspierać windows 7,
+,język programowania oraz baza danych użyte do tworzenia nie powinny być zdefiniowane,
+,aplikacja ma umożliwić użytkownikom poszukiwanie jednego defektu w każdym ze stworzonych zadań oraz ich raportowanie,Adrian
+,aplikacja ma generować dziennik zdarzeń części klienckiej,
+,w aplikacji końcowej i publicznej ma być nie mniej niż 15 zadań,Klaudia
+,w wersji demonstracyjnej ma być tylko jedno zadanie,Paweł
+,"w przypadku działającego połączenia sieciowego, dane z części klienckiej mają być dostarczane do części serwerowej bezpośrednio z aplikacji 
+klienckiej",
+,w trybie członka drużyny nie może być możliwości raportowania defektów,mateusz
+,"w przypadku braku połączenia sieciowego, dane z części klienckiej mają być dostarczane do części serwerowej za pomocą funkcji eksportu z części klienckiej i importu w części serwerowej",Lilia
+,"W przypadku utraty połączenia sieciowego użytkownik powinien mieć 
+dalszą możliwość wykonywania wszystkich czynności w aplikacji",
+,nie może być możliwości zmiany trybu pracy w trakcie jej działania,Anna K-CH
+,kolejnosc zadan ma być losowa,
+,Część serwerowa ma gromadzić raporty z zadań od zawodników i drużyn,
+,Część serwerowa ma prowadzić klasyfikację generalną w kategoriach indywidualnej i drużynowej,
+,"część serwerowa ma wyświetlać klasyfikację generalną na zewnętrznym monitorze",
+,Część serwerowa ma automatycznie oceniać poprawność defektów ,
+,Część serwerowa ma umożliwić komisji ręczną zmianę ilości przyznanych punktów za zadanie,
+,Część serwerowa ma umożliwić wygenerowanie raporty zbiorczego,
+,Część serwerowa ma rejestrować wszystkie czynności w dzienniku zdarzeń ,
+,"Aplikacja nie może utracić danych w przypadku niespodziewanego jej zamknięcia, tworzenie i wczytywanie kopii",Piotr
+,Część serwerowa ma na bieżąco zliczać ilość odebranych raportów,
+,pole czas powinno wyświetlać czas do zakończenia rundy,Sylwia
+,pole nr zadania powinno podawać numer zadania,Natalia
+,pole opis problemu powinno zawierać ogólną informację na temat zadania,Ewa
+,pole lista zadań powinno umożliwiać nawigację pomiędzy zadaniami,
+,przycisk zaraportuj defekt powinien pozwalać na zaraportowanie defektu aktualnie wyświetlanego w oknie zadania,Angelika
+,przycisk zakończ powinien zakańczać pracę nad wszystkimi zadaniami i wysyłać odpowiedzi do oceny,
+,użytkownik powinien mieć możliwość potwierdzenia zakończenia,Andrzej
+,okno zadania powinnno wyświetlać zadanie w którym są defekty,ewelina
