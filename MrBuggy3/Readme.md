@@ -1,1 +1,1 @@
-
+# Ogólny opis projektu
