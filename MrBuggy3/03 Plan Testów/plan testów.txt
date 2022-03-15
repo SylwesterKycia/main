@@ -1,0 +1,89 @@
+Plan testów;
+
+
+1. Informacja o wersji; 
+
+Plan testów w wersji: 3.1.0
+
+2. Wprowadzenie;
+
+Celem dokumentu jest określenie jakości aplikacji, poprzez testy, które mają za zadanie znaleźć jak 
+największą ilość defektów. Największy nacisk będzie kładziony na problemy krytyczne. Testy 
+bazować będą na dostarczonej dokumentacji MrBuggy3.
+
+3. Zakres testów;
+
+Testowanym obiektem jest aplikacja Mr Buggy3 Elementy podlegające testom:
+- interfejs
+- wprowadzanie i zapis danych
+- export danych
+
+4. Podejście testowe;
+
+Testy aplikacji będą polegały na dostarczonej specyfikacji (MrBuggy3 Zostaną przeprowadzone testy 
+manualne oparte o techniki czarnej skrzynki. Ze względu na ograniczenia czasowe zespół skupi się 
+na testach eksploracyjnych.
+
+5. Kryteria zaliczenia oraz niezaliczenia testu;
+
+Testy zaliczane będą na podstawie zgodności z dokumentacją MrBuggy3 oraz na 
+podstawie akceptacji przez klienta na przeprowadzonym co-dwutygodniowym demie.
+
+6. Kryteria zawieszenia i wznowienia testowania;
+
+Głównym kryterium zawieszenia testów jest deadline, który określa koniec implementacji - (data).
+Dodatkowym kryterium zawieszenia jest przedwczesne wyczerpanie budżetu.
+Wznowienie testów nie jest planowane
+
+7. Produkty testowe;
+
+Po zakończeniu testów, będą dostępne następujące produkty:
+- udokumentowana lista defektów
+- lista przypadków testowych
+
+8. Zadania testowe;
+
+Zadania, które będą towarzyszyć procesowi testowania:
+- przygotowanie przypadków testowych oraz danych testowych
+- wykonanie testów
+- raportowanie defektów
+
+9. Srodowiska testowe;
+
+Aplikacja MrBuggy 3 ma wspierać poniższe systemy operacyjne:
+* Część kliencka:
+- Windows 7
+- Windows 8/8.1
+* Część serwerowa:
+- Windows 7
+Język programowania oraz baza danych urzyta podczas tworzenia 
+aplikacji nie są zdefiniowane. Ich wybór jest pozostawiony Wykonawcy zlecenia. 
+
+10. Odpowiedzialności;
+
+Zespół liczy trzech developerów o raz 2 testerów. Poniżej opisane są odpowiedzialności:
+- Developerzy - implementacja oraz naprawianie defektów
+- Tester X - testy funkcjonalne
+- Tester Y - Przygotowanie danych testowych oraz sporządzenie raportu błędów oraz planu testów
+
+11. Potrzeby szkoleniowe, zapotrzebowania na zasoby; 
+
+W celu zwiększenia efektywności potrzebne jest szkolenie całego zespołu z zakresu testowania (API).
+
+12. Harmonogram;
+
+ - implementacja funkcjonalności
+ - przeprowadzenie testów manualnych i raportowanie defektów
+ - naprawa bugów, restesty, testy regresji
+ - demo i akceptacja klienta aplikacji Mr Buggy3
+
+13. Ryzyka i plany awaryjne;
+
+Największym ryzykiem jest krótki zakres czasu przeznaczony na testy.
+Dodatkowym ryzykiem są małe zasoby członków zespołu w stosunku do ilości zadań
+A także plan urlopowy oraz zdażenia nagle losowe.
+
+14. Zatwierdzenie planu;
+
+Plan zatwierdził Product Owner lub Project Manager
+
